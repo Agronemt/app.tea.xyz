@@ -1,2 +1,1 @@
-# app.tea.xyz
-My Tea Contribution
+Open Source Project for Tea Contribution
